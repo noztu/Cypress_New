@@ -1,0 +1,23 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "todo": "npx cypress run --headed --browser chrome --spec cypress/e2e/1-getting-started/todo.cy.js",
+    "firstDay": "npx cypress run --headed --browser chrome --spec cypress/e2e/day_01/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0",
+    "cypress-plugin-api": "^2.11.0",
+    "cypress-plugin-store": "^1.3.2",
+    "cypress-xpath": "^2.0.1",
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}

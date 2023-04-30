@@ -1,0 +1,1910 @@
+{
+    "points": [
+        {
+            "id": 351,
+            "firstName": "Ondeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeer",
+            "picture": "https:\/\/lh3.googleusercontent.com\/a\/ALm5wu07WSE2EQd8vGt9unirpPBe3ExBpRG4DCJsPlgv=s96-c",
+            "lat": 37.3310223,
+            "lng": -121.8883065,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 2028,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 47111,
+                            "uniqueName": "TOMATO",
+                            "price": 2,
+                            "stock": 80000000000000000001,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "Tomoto",
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 1,
+                                "uniqueName": "TOMATO",
+                                "title": "Tomatppppppppppppppppppppppppppppppppppppppppppppppppppppppppo",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/tomato-cherry.jpg",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 351,
+                            "feedbackCount": 2,
+                            "feedbackAvg": 5,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 0.63
+        },
+        {
+            "id": 382,
+            "firstName": "mayten",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.3229978,
+            "lng": -122.0321823,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 2044,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 47176,
+                            "uniqueName": "TOMATO_ALICANTE",
+                            "price": 10,
+                            "stock": 4988,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 7,
+                                "uniqueName": "TOMATO_ALICANTE",
+                                "title": "Alicante Tomato",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 2,
+                            "feedbackAvg": 5,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47177,
+                            "uniqueName": "TOMATO_CELEBRITIES",
+                            "price": 1,
+                            "stock": 4998,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 5,
+                                "uniqueName": "TOMATO_CELEBRITIES",
+                                "title": "Celebrities Tomato",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/tomato-celeb-1.jpg",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2045,
+                    "uniqueName": "DAIRY_HUB",
+                    "products": [
+                        {
+                            "id": 47178,
+                            "uniqueName": "MILK",
+                            "price": 10,
+                            "stock": 4990,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 300,
+                                "uniqueName": "MILK",
+                                "title": "Milk",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/milk.jpg",
+                                "hubTitle": "DAIRY_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47179,
+                            "uniqueName": "CHEESE",
+                            "price": 1,
+                            "stock": 4993,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 301,
+                                "uniqueName": "CHEESE",
+                                "title": "Cheese",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "DAIRY_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 1,
+                            "feedbackAvg": 2,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2058,
+                    "uniqueName": "GARDENING_SERVICES_HUB",
+                    "products": [
+                        {
+                            "id": 47172,
+                            "uniqueName": "SOD_INSTALLATION",
+                            "price": 2,
+                            "stock": 9,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 310,
+                                "uniqueName": "SOD_INSTALLATION",
+                                "title": "Sod Installation",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_SERVICES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47173,
+                            "uniqueName": "TREE_REMOVAL",
+                            "price": 3,
+                            "stock": 4,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 311,
+                                "uniqueName": "TREE_REMOVAL",
+                                "title": "Tree Removal",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_SERVICES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47174,
+                            "uniqueName": "BUILD_RAISED_BED",
+                            "price": 4,
+                            "stock": 7,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 307,
+                                "uniqueName": "BUILD_RAISED_BED",
+                                "title": "Build Raised Bed",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_SERVICES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47180,
+                            "uniqueName": "LANDSCAPING",
+                            "price": 10,
+                            "stock": 4991,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 309,
+                                "uniqueName": "LANDSCAPING",
+                                "title": "Landscaping",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_SERVICES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2059,
+                    "uniqueName": "GARDENING_TOOLS_HUB",
+                    "products": [
+                        {
+                            "id": 47175,
+                            "uniqueName": "GARDENING_TOOLS_AUGER",
+                            "price": 2,
+                            "stock": 8,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 313,
+                                "uniqueName": "GARDENING_TOOLS_AUGER",
+                                "title": "Auger",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_TOOLS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 1,
+                            "feedbackAvg": 5,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47181,
+                            "uniqueName": "GARDENING_TOOLS_BROADCAST_SPRAYER",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 316,
+                                "uniqueName": "GARDENING_TOOLS_BROADCAST_SPRAYER",
+                                "title": "Broadcast Sprayer",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_TOOLS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47182,
+                            "uniqueName": "GARDENING_TOOLS_BROADFORK",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 317,
+                                "uniqueName": "GARDENING_TOOLS_BROADFORK",
+                                "title": "Broadfork",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "GARDENING_TOOLS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2060,
+                    "uniqueName": "SEED_HUB",
+                    "products": [
+                        {
+                            "id": 47183,
+                            "uniqueName": "SEED_TOMATO_CELEBRITIES",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 384,
+                                "uniqueName": "SEED_TOMATO_CELEBRITIES",
+                                "title": "Celebrities Tomato Seed",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/tomato-celeb-1.jpg",
+                                "hubTitle": "SEED_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47184,
+                            "uniqueName": "SEED_CUCUMBER_ENGLISH",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 387,
+                                "uniqueName": "SEED_CUCUMBER_ENGLISH",
+                                "title": "English Cucumber Seed",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/cucumber-english.jpg",
+                                "hubTitle": "SEED_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2061,
+                    "uniqueName": "SEEDLING_AND_SAPLING_HUB",
+                    "products": [
+                        {
+                            "id": 47185,
+                            "uniqueName": "SAPLING_TOMATO_GOLD_CHERRY",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 405,
+                                "uniqueName": "SAPLING_TOMATO_GOLD_CHERRY",
+                                "title": "Gold Cherry Tomato Sapling",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/tomato-goldCherry.jpg",
+                                "hubTitle": "SEEDLING_AND_SAPLING_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47186,
+                            "uniqueName": "SAPLING_SUNFLOWER",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 424,
+                                "uniqueName": "SAPLING_SUNFLOWER",
+                                "title": "Sunflower Sapling",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/sunflower.jpg",
+                                "hubTitle": "SEEDLING_AND_SAPLING_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2062,
+                    "uniqueName": "COMPOST_HUB",
+                    "products": [
+                        {
+                            "id": 47187,
+                            "uniqueName": "COMPOST_COMPOST",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 428,
+                                "uniqueName": "COMPOST_COMPOST",
+                                "title": "Compost",
+                                "descr": "Economic and environment friendly waste management, low cost",
+                                "image": "",
+                                "hubTitle": "COMPOST_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47188,
+                            "uniqueName": "COMPOST_FARMYARD_MANURE",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 426,
+                                "uniqueName": "COMPOST_FARMYARD_MANURE",
+                                "title": "Farmyard Manure",
+                                "descr": "Long lasting in the soil, nutrient rich",
+                                "image": "",
+                                "hubTitle": "COMPOST_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2063,
+                    "uniqueName": "WORM_HUB",
+                    "products": [
+                        {
+                            "id": 47189,
+                            "uniqueName": "WORM_RED",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 429,
+                                "uniqueName": "WORM_RED",
+                                "title": "Red Worm",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "WORM_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47190,
+                            "uniqueName": "WORM_TIGER",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 431,
+                                "uniqueName": "WORM_TIGER",
+                                "title": "Tiger Worm",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "WORM_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2064,
+                    "uniqueName": "FERTILIZER_HUB",
+                    "products": [
+                        {
+                            "id": 47191,
+                            "uniqueName": "FERTILIZER_POTASSIUM",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 438,
+                                "uniqueName": "FERTILIZER_POTASSIUM",
+                                "title": "Potassium Fertilizer",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "FERTILIZER_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47192,
+                            "uniqueName": "FERTILIZER_INORGANIC",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 435,
+                                "uniqueName": "FERTILIZER_INORGANIC",
+                                "title": "Inorganic Fertilizer",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "FERTILIZER_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2065,
+                    "uniqueName": "HERBS_AND_FLOWERS_HUB",
+                    "products": [
+                        {
+                            "id": 47193,
+                            "uniqueName": "HERBS_AND_FLOWERS_BASIL_RED_RUBIN",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 444,
+                                "uniqueName": "HERBS_AND_FLOWERS_BASIL_RED_RUBIN",
+                                "title": "Basil Red Rubin",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "HERBS_AND_FLOWERS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47194,
+                            "uniqueName": "HERBS_AND_FLOWERS_CILANTRO",
+                            "price": 1,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 447,
+                                "uniqueName": "HERBS_AND_FLOWERS_CILANTRO",
+                                "title": "Herbs and Flowers Cilantro",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "HERBS_AND_FLOWERS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 2066,
+                    "uniqueName": "TREES_HUB",
+                    "products": [
+                        {
+                            "id": 47195,
+                            "uniqueName": "ARIZONA_CYPRESS",
+                            "price": 10,
+                            "stock": 5000,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": false,
+                            "isTrade": true,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 476,
+                                "uniqueName": "ARIZONA_CYPRESS",
+                                "title": "Arizona cypress",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/corn.jpg",
+                                "hubTitle": "TREES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 47196,
+                            "uniqueName": "VIRGINIA_PINE",
+                            "price": 1,
+                            "stock": 4999,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": null,
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": null,
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 472,
+                                "uniqueName": "VIRGINIA_PINE",
+                                "title": "Virginia Pine",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "TREES_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 382,
+                            "feedbackCount": 2,
+                            "feedbackAvg": 5,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 2,
+            "sellerFeedbackAvg": 5,
+            "distanceInRange": true,
+            "distance": 7.9
+        },
+        {
+            "id": 1355,
+            "firstName": "Test",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.3352246,
+            "lng": -121.8914465,
+            "deliveryType": [
+                "SELLER_DELIVERY"
+            ],
+            "maxDeliveryRange": 1000,
+            "freeDeliveryRange": 10,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 1,
+            "availability": null,
+            "estimatedDeliveryTime": [
+                "60_5"
+            ],
+            "availabilityBranch": null,
+            "hubs": [
+                {
+                    "id": 4478,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 101914,
+                            "uniqueName": "CUCUMBER_AMERICAN_SLICING",
+                            "price": 2,
+                            "stock": 492,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 91,
+                                "uniqueName": "CUCUMBER_AMERICAN_SLICING",
+                                "title": "American Slicing Cucumber",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/cucumber-slicing.jpg",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "SELLER_DELIVERY"
+                            ],
+                            "maxDeliveryRange": 1000,
+                            "freeDeliveryRange": 10,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 1,
+                            "estimatedDeliveryTime": [
+                                "60_5"
+                            ],
+                            "availability": null,
+                            "availabilityBranch": null,
+                            "sellerId": 1355,
+                            "feedbackCount": 3,
+                            "feedbackAvg": 2,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 0.34
+        },
+        {
+            "id": 1603,
+            "firstName": "Testone",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.2278973,
+            "lng": -121.8714137,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 4488,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 101946,
+                            "uniqueName": "TOMATO_ADORATION",
+                            "price": 2,
+                            "stock": 996,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 8,
+                                "uniqueName": "TOMATO_ADORATION",
+                                "title": "Adoration Tomato",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 1603,
+                            "feedbackCount": 1,
+                            "feedbackAvg": 4,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 7.81
+        },
+        {
+            "id": 1612,
+            "firstName": "Testtwo",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.2278973,
+            "lng": -121.8714137,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 4489,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 101947,
+                            "uniqueName": "VEGETABLES_AND_FRUITS_ANANAS_NOIRE",
+                            "price": 5,
+                            "stock": 998,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "Ananas",
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": "Ananas",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 177,
+                                "uniqueName": "VEGETABLES_AND_FRUITS_ANANAS_NOIRE",
+                                "title": "Ananas Noire",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 1612,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 7.81
+        },
+        {
+            "id": 1623,
+            "firstName": "Testthree",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.2278973,
+            "lng": -121.8714137,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 4490,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 101951,
+                            "uniqueName": "VEGETABLES_AND_FRUITS_ARTICHOKE",
+                            "price": 4,
+                            "stock": 199,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": true,
+                            "isTrade": true,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 236,
+                                "uniqueName": "VEGETABLES_AND_FRUITS_ARTICHOKE",
+                                "title": "Artichoke",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 1623,
+                            "feedbackCount": 1,
+                            "feedbackAvg": 3,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 7.81
+        },
+        {
+            "id": 455,
+            "firstName": "EventAlici",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.34,
+            "lng": -121.89,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 4469,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 101911,
+                            "uniqueName": "TOMATO_ADORATION",
+                            "price": 20,
+                            "stock": 25,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 8,
+                                "uniqueName": "TOMATO_ADORATION",
+                                "title": "Adoration Tomato",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 455,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 4470,
+                    "uniqueName": "DAIRY_HUB",
+                    "products": [
+                        {
+                            "id": 102072,
+                            "uniqueName": "CHEESE",
+                            "price": 10,
+                            "stock": 89,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "always fresh",
+                            "isOrganic": true,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 301,
+                                "uniqueName": "CHEESE",
+                                "title": "Cheese",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "DAIRY_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 29,
+                                    "url": "\/uploads\/product-images\/product_image_resized640740bcbdf4c1.17504816.jpg",
+                                    "isActive": true,
+                                    "created": {
+                                        "date": "2023-03-07 13:48:45.000000",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "updated": {
+                                        "date": "2023-03-07 13:48:45.000000",
+                                        "timezone_type": 3,
+                                        "timezone": "UTC"
+                                    },
+                                    "sequence": 1,
+                                    "urlOriginal": "\/uploads\/product-images\/product_image_original640740bcbdf343.85106496.jpg"
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 455,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 0
+        },
+        {
+            "id": 1743,
+            "firstName": "ayten",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.1696999,
+            "lng": -121.8448745,
+            "deliveryType": [
+                "BUYER_PICKUP",
+                "SELLER_DELIVERY"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 300,
+            "minFreeDeliveryOrder": 50,
+            "perMileCost": 0.45,
+            "availability": "08:00-17:00",
+            "estimatedDeliveryTime": [
+                "180_100"
+            ],
+            "availabilityBranch": "",
+            "hubs": [
+                {
+                    "id": 4526,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 102037,
+                            "uniqueName": "VEGETABLES_AND_FRUITS_ADRIATIC_FIGS_",
+                            "price": 15,
+                            "stock": 11,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 160,
+                                "uniqueName": "VEGETABLES_AND_FRUITS_ADRIATIC_FIGS_",
+                                "title": "Adriatic Figs",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP",
+                                "SELLER_DELIVERY"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 300,
+                            "minFreeDeliveryOrder": 50,
+                            "perMileCost": 0.45,
+                            "estimatedDeliveryTime": [
+                                "180_100"
+                            ],
+                            "availability": "08:00-17:00",
+                            "availabilityBranch": "",
+                            "sellerId": 1743,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                },
+                {
+                    "id": 4527,
+                    "uniqueName": "DAIRY_HUB",
+                    "products": [
+                        {
+                            "id": 102038,
+                            "uniqueName": "EGG",
+                            "price": 5,
+                            "stock": 20,
+                            "unit": "UNIT_LIBRE",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 305,
+                                "uniqueName": "EGG",
+                                "title": "Egg",
+                                "descr": "",
+                                "image": "\/uploads\/images\/products\/egg.jpg",
+                                "hubTitle": "DAIRY_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP",
+                                "SELLER_DELIVERY"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 300,
+                            "minFreeDeliveryOrder": 50,
+                            "perMileCost": 0.45,
+                            "estimatedDeliveryTime": [
+                                "180_100"
+                            ],
+                            "availability": "08:00-17:00",
+                            "availabilityBranch": "",
+                            "sellerId": 1743,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 12.03
+        },
+        {
+            "id": 2125,
+            "firstName": "as",
+            "picture": "\/img\/avatar.png",
+            "lat": 37.34,
+            "lng": -121.89,
+            "deliveryType": [
+                "BUYER_PICKUP_FROM_BRANCH"
+            ],
+            "maxDeliveryRange": 0,
+            "freeDeliveryRange": 0,
+            "minFreeDeliveryOrder": 0,
+            "perMileCost": 0,
+            "availability": "",
+            "estimatedDeliveryTime": [],
+            "availabilityBranch": "08:00-17:00",
+            "hubs": [
+                {
+                    "id": 4600,
+                    "uniqueName": "VEGETABLES_AND_FRUITS_HUB",
+                    "products": [
+                        {
+                            "id": 102237,
+                            "uniqueName": "TOMATO_ADORATION",
+                            "price": 56,
+                            "stock": 34,
+                            "unit": "UNIT_EACH",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 8,
+                                "uniqueName": "TOMATO_ADORATION",
+                                "title": "Adoration Tomato",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 2125,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        },
+                        {
+                            "id": 102250,
+                            "uniqueName": "VEGETABLES_AND_FRUITS_AVOCADO",
+                            "price": 43,
+                            "stock": 56,
+                            "unit": "UNIT_EACH",
+                            "packQuantity": null,
+                            "isActive": true,
+                            "sellerDescription": "",
+                            "isOrganic": false,
+                            "isTrade": false,
+                            "tradeDescription": "",
+                            "productListingState": "APPROVED",
+                            "product": {
+                                "id": 278,
+                                "uniqueName": "VEGETABLES_AND_FRUITS_AVOCADO",
+                                "title": "Avocado",
+                                "descr": "",
+                                "image": "",
+                                "hubTitle": "VEGETABLES_AND_FRUITS_HUB"
+                            },
+                            "hubProductImages": [
+                                {
+                                    "id": 0,
+                                    "url": "\/favicon\/favicon-196x196.png",
+                                    "isActive": true
+                                }
+                            ],
+                            "deliveryType": [
+                                "BUYER_PICKUP_FROM_BRANCH"
+                            ],
+                            "maxDeliveryRange": 0,
+                            "freeDeliveryRange": 0,
+                            "minFreeDeliveryOrder": 0,
+                            "perMileCost": 0,
+                            "estimatedDeliveryTime": [],
+                            "availability": "",
+                            "availabilityBranch": "08:00-17:00",
+                            "sellerId": 2125,
+                            "feedbackCount": 0,
+                            "feedbackAvg": 0,
+                            "descr": "There is No Description For This Product"
+                        }
+                    ]
+                }
+            ],
+            "sellerFeedbackCount": 0,
+            "sellerFeedbackAvg": 0,
+            "distanceInRange": true,
+            "distance": 0
+        }
+    ]
+}

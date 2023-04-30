@@ -1,0 +1,17 @@
+{
+    "doubleClick": {
+        "webElementButton": "#doubleClickBtn",
+        "webElementText": "#doubleClickMessage",
+        "message": "You have done a double click"
+    },
+    "rightClick": {
+        "webElementButton": "#rightClickBtn",
+        "webElementText": "#rightClickMessage",
+        "message": "You have done a right click"
+    },
+    "singleClick": {
+        "webElementButton": "//button[text()='Click Me']",
+        "webElementText": "#dynamicClickMessage",
+        "message": "You have done a dynamic click"
+    }
+}

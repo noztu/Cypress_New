@@ -1,0 +1,5 @@
+{
+    "demoqa": {
+        "register": "https://demoqa.com/Account/v1/User"
+    }
+}

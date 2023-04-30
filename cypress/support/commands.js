@@ -47,3 +47,38 @@ Cypress.Commands.add('login', (email, password) => {
 
 
 })
+Cypress.Commands.add('dragTo', (from, to) => {
+    const dataTransfer = new DataTransfer()
+
+
+    cy.get(from).trigger('dragstart', {
+        dataTransfer
+    })
+
+    cy.get(to).trigger('drop', {
+        dataTransfer
+    })
+
+})
+
+
+Cypress.Commands.add('dragToYeniVersion', { prevSubject: "element" }, (subject, to) => {
+    const dataTransfer = new DataTransfer()
+
+
+    cy.get(subject).trigger('dragstart', {
+        dataTransfer
+    })
+
+    cy.get(to).trigger('drop', {
+        dataTransfer
+    })
+
+})
+
+
+// ---------- api ------------
+
+import apiUtilities from './apiUtilities';
+
+Cypress.Commands.add('registerDemoqa', apiUtilities.registerDemoqa)

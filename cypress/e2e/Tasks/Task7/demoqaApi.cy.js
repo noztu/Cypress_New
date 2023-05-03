@@ -2,7 +2,7 @@ describe('demoqa register', () => {
 
     const endPoint= "https://demoqa.com/Account/v1/User"
     const body = {"userName": "omer1dsfsggrkkr3335", "password": "omerOMER1234,.$"}
-
+//Task7 API story
     /**
      * message
      * "User exists!"
